@@ -14,3 +14,15 @@ h1 {
 hr.solid {
     border-top: 3px solid #bbb;
 }
+
+psi {
+    color: limegreen;
+}
+
+a:link {
+    color: limegreen;
+}
+
+a:visited {
+    color: green;
+}
