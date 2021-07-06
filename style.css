@@ -24,5 +24,10 @@ a:link {
 }
 
 a:visited {
-    color: green;
+    color: rgb(43, 170, 43);
+}
+
+infotext {
+    font-size: small;
+    color: lightgray;
 }
